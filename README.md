@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @priyank003
+- 🏢 SWE intern at Microsoft 
 - 👀 I’m interested in web technologies from front  to back 
 - 🌱 I’m currently learning cloud deployment docker, aws
 - 💞️ I’m looking to collaborate on web related projects
